@@ -58,7 +58,7 @@ I'm continually working on improving my skills in machine learning and data scie
 
 Feel free to reach out to me for collaborations or questions about my projects:
 
-- Email: ankits1349@gmail.com
-- LinkedIn: [Ankit singh](www.linkedin.com/in/ankit-singh-data07)
+- Email: [ankits1349@gmail.com]
+- LinkedIn: [www.linkedin.com/in/ankit-singh-data07]
 
 Thank you for visiting my GitHub profile!
