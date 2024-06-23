@@ -40,7 +40,7 @@ This project aims to classify news articles as either genuine or fake using mach
 - Scikit-learn
 - Pandas
 
-[Link to Fake News Prediction Project]([https://github.com/yourusername/fake-news-prediction](https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb))
+Link to Fake News Prediction Project [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb]
 
 ## Skills Demonstrated
 
