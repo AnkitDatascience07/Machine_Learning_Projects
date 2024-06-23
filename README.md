@@ -20,8 +20,10 @@ This project focuses on predicting whether a credit card application will be app
 - Pandas
 - Matplotlib/Seaborn
 
-[Link to Credit Card Approval Prediction Project]([https://github.com/yourusername/credit-card-approval-prediction](https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Credit%20Card%20Approval%20Prediction%20-%20Machine%20learning%20.ipynb))
-https://github.com/yourusername/credit-card-approval-prediction](https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Credit%20Card%20Approval%20Prediction%20-%20Machine%20learning%20.ipynb
+Link to credit card approval prediction [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Credit%20Card%20Approval%20Prediction%20-%20Machine%20learning%20.ipynb]
+
+
+
 ### 2. Fake News Prediction
 
 This project aims to classify news articles as either genuine or fake using machine learning techniques.
