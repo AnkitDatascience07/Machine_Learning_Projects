@@ -30,7 +30,7 @@ This project aims to classify news articles as either genuine or fake using mach
 
 **Key Features:**
 - Text preprocessing
-- Feature extraction (TF-IDF, word embeddings)
+- Feature extraction (word embeddings)
 - Model selection and training
 - Performance evaluation
 
