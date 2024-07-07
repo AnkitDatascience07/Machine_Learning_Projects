@@ -52,7 +52,7 @@ Link to Fake News Prediction Project [https://github.com/AnkitDatascience07/Mach
 
 ## Future Work
 
-I'm continually working on improving my skills in machine learning and data science. Stay tuned for more projects!
+I'm continually working on improving my skills in machine learning and data science. Stayz tuned for more projects..
 
 ## Contact
 
