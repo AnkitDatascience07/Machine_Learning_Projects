@@ -16,7 +16,7 @@ Project Link - https://github.com/AnkitDatascience07/Machine-learning-And-AI-Pro
 
 
 
-###Credit Card Approval Prediction
+### Credit Card Approval Prediction
 
 This project focuses on predicting whether a credit card application will be approved or denied based on various applicant features.
 
@@ -36,7 +36,7 @@ Link to credit card approval prediction [https://github.com/AnkitDatascience07/M
 
 
 
-###Fake News Prediction
+### Fake News Prediction
 
 This project aims to classify news articles as either genuine or fake using machine learning techniques.
 
