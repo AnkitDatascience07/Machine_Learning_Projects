@@ -4,6 +4,9 @@ Welcome to my GitHub profile! Here you'll find my machine learning projects I've
 
 ## Projects
 
+### Stock Cost Prediction
+In This project we have developed a stock cost prediction model and we build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model. OTOH, Plotly dash python framework for building dashboards.
+
 ### IPL_Score_prediction
 This project is focused on predicting the total score in Indian Premier League (IPL) cricket matches based on key match factors. The project leverages machine learning techniques and explores various features such as the venue, batting team, bowling team, individual players (batsmen and bowlers), and their performances. 
 
