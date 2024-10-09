@@ -6,6 +6,8 @@ Welcome to my GitHub profile! Here you'll find my machine learning projects I've
 
 ### Recommendation Engine with Graphs
 In this project, We applied a graph-based recommendation engine to Disney+dataset.By Connecting movies and TV Shows through shared attributes, we used the Adamic Adar measure to generate personalized content recommendations.
+Project Link : [https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Recommendation%20Engine%20with%20Graphs%20.ipynb]
+
 
 ### Stock Cost Prediction
 In This project we have developed a stock cost prediction model and we build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model. OTOH, Plotly dash python framework for building dashboards.
