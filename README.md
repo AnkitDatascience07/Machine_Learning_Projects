@@ -17,8 +17,6 @@ Project Link: [https://github.com/AnkitDatascience07/Machine-learning-And-AI-Pro
 ### IPL_Score_prediction
 This project is focused on predicting the total score in Indian Premier League (IPL) cricket matches based on key match factors. The project leverages machine learning techniques and explores various features such as the venue, batting team, bowling team, individual players (batsmen and bowlers), and their performances. 
 
-The dataset used in this project contains detailed historical IPL match data, and after exploring and cleaning the dataset, multiple machine learning models were implemented for score prediction. Key libraries like Pandas, NumPy, TensorFlow, and scikit-learn are used for data preprocessing, model building, and evaluation.
-
 The project aims to offer insights into the dynamics of IPL matches by providing accurate score predictions. It highlights feature engineering techniques, model evaluation (using metrics like R-squared, mean absolute error), and the deployment of models for practical use. The project serves as an example of how data analysis and machine learning can be applied to sports analytics for predictive modeling.
 
 Project Link - https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Ipl_score_prediction.ipynb
