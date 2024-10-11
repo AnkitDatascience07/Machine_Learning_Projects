@@ -1,6 +1,7 @@
 # Machine-learning-Projects
 
 Welcome to my GitHub profile! Here you'll find my machine learning projects I've completed . These projects demonstrate my skills in data analysis, Machine learning and AI.
+Note: I haven't added any end-to-end projects here yet, but I intend to do so in a different repository.  
 
 ## Projects
 
