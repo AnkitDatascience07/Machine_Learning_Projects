@@ -29,7 +29,7 @@ Project Link - https://github.com/AnkitDatascience07/Machine-learning-And-AI-Pro
 
 This project focuses on predicting whether a credit card application will be approved or denied based on various applicant features.
 
-**Key Features:**
+**Key Features of the Project:**
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Feature engineering and selection
@@ -48,8 +48,6 @@ Link to credit card approval prediction [https://github.com/AnkitDatascience07/M
 ### Fake News Prediction
 
 This project aims to classify news articles as either genuine or fake using machine learning techniques.
-
-
 Link to Fake News Prediction Project [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb]
 
 
