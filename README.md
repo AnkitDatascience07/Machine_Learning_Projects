@@ -49,27 +49,12 @@ Link to credit card approval prediction [https://github.com/AnkitDatascience07/M
 
 This project aims to classify news articles as either genuine or fake using machine learning techniques.
 
-**Key Features:**
-- Text preprocessing
-- Feature extraction (word embeddings)
-- Model selection and training
-- Performance evaluation
-
-**Technologies Used:**
-- Python
-- NLTK
-- Scikit-learn
-- Pandas
 
 Link to Fake News Prediction Project [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb]
 
-## Skills Demonstrated
 
-- Data cleaning and preprocessing
-- Feature engineering
-- Model selection and evaluation
-- Machine Learning algorithms (Logistic regression)
-- Python programming
+
+
 
 ## Future Work
 
