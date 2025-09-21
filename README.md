@@ -1,68 +1,79 @@
-# Machine-learning-Projects
+# 🧠 Machine Learning Projects
 
-Welcome to my GitHub profile! Here you'll find my machine learning projects I've completed . These projects demonstrate my skills in data analysis, Machine learning and AI.
-Note: I haven't added any end-to-end projects here yet, but I intend to do so in a different repository.  
+Welcome to my GitHub profile! This repository showcases a collection of my machine learning projects, demonstrating my skills in **data analysis**, **machine learning**, and **artificial intelligence**.
 
-## Projects
+> ⚠️ Note: End-to-end projects will be added soon in a dedicated repository.
 
-### Recommendation Engine with Graphs
-In this project, We applied a graph-based recommendation engine to Disney+dataset.By Connecting movies and TV Shows through shared attributes, we used the Adamic Adar measure to generate personalized content recommendations.
-Project Link : [https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Recommendation%20Engine%20with%20Graphs%20.ipynb]
+---
 
+## 📂 Projects
 
-### Stock Cost Prediction
-In This project we have developed a stock cost prediction model and we build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model. OTOH, Plotly dash python framework for building dashboards.
-Project Link: [https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Stock%20Price%20Prediction.ipynb]
+### 📌 Recommendation Engine with Graphs
 
+In this project, I implemented a graph-based recommendation engine using a Disney+ dataset. By connecting movies and TV shows through shared attributes, I applied the **Adamic-Adar measure** to generate personalized content recommendations.
 
-### IPL_Score_prediction
-This project is focused on predicting the total score in Indian Premier League (IPL) cricket matches based on key match factors. The project leverages machine learning techniques and explores various features such as the venue, batting team, bowling team, individual players (batsmen and bowlers), and their performances. 
+🔗 [View Project »](https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Recommendation%20Engine%20with%20Graphs%20.ipynb)
 
-The project aims to offer insights into the dynamics of IPL matches by providing accurate score predictions. It highlights feature engineering techniques, model evaluation (using metrics like R-squared, mean absolute error), and the deployment of models for practical use. The project serves as an example of how data analysis and machine learning can be applied to sports analytics for predictive modeling.
+---
 
-Project Link - https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Ipl_score_prediction.ipynb
+### 📉 Stock Price Prediction
 
+This project involves developing a **stock cost prediction model** using an **LSTM (Long Short-Term Memory)** network. I also built an **interactive dashboard** using **Plotly Dash** for dynamic stock analysis and visualization.
 
+🔗 [View Project »](https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Stock%20Price%20Prediction.ipynb)
 
+---
 
-### Credit Card Approval Prediction
+### 🏏 IPL Score Prediction
 
-This project focuses on predicting whether a credit card application will be approved or denied based on various applicant features.
+Focused on predicting total scores in **Indian Premier League (IPL)** cricket matches, this project leverages various features like venue, teams, individual players, and their performance stats.
 
-**Key Features of the Project:**
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
-- Feature engineering and selection
+**Key Highlights:**
+- Feature engineering for sports analytics
+- Evaluation using metrics like R² and MAE
+- Practical deployment insights
+
+🔗 [View Project »](https://github.com/AnkitDatascience07/Machine-learning-And-AI-Projects/blob/main/Ipl_score_prediction.ipynb)
+
+---
+
+### 💳 Credit Card Approval Prediction
+
+This project predicts whether a **credit card application** will be approved based on applicant details using classification models.
+
+**Features:**
+- Data cleaning and preprocessing
+- EDA and feature engineering
 - Model training and evaluation
 
-**Technologies Used:**
-- Python
-- Scikit-learn
-- Pandas
-- Matplotlib/Seaborn
+**Tech Stack:**
+Python · Scikit-learn · Pandas · Matplotlib · Seaborn
 
-Link to credit card approval prediction [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Credit%20Card%20Approval%20Prediction%20-%20Machine%20learning%20.ipynb]
+🔗 [View Project »](https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Credit%20Card%20Approval%20Prediction%20-%20Machine%20learning%20.ipynb)
 
+---
 
+### 📰 Fake News Detection
 
-### Fake News Prediction
+This project classifies news articles as **real** or **fake** using supervised machine learning techniques.
 
-This project aims to classify news articles as either genuine or fake using machine learning techniques.
-Link to Fake News Prediction Project [https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb]
+🔗 [View Project »](https://github.com/AnkitDatascience07/Machine-learning-Projects/blob/main/Fake%20news%20prediction%20-%20Machine%20learning%20.ipynb)
 
+---
 
+## 🔭 Future Work
 
+I'm actively expanding my skillset and will be sharing more **end-to-end projects**, **deployments**, and **advanced models** soon. Stay tuned!
 
+---
 
-## Future Work
+## 📬 Contact
 
-I'm continually working on improving my skills in machine learning and data science. Stayz tuned for more projects..
+Feel free to reach out for collaborations, questions, or just to connect:
 
-## Contact
+- 📧 Email: [ankits1349@gmail.com](mailto:ankits1349@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ankit-singh-data07](https://www.linkedin.com/in/ankit-singh-data07)
 
-Feel free to reach out to me for collaborations or questions about my projects:
+---
 
-- Email: [ankits1349@gmail.com]
-- LinkedIn: [www.linkedin.com/in/ankit-singh-data07]
-
-Thank you for visiting my GitHub profile!
+Thanks for visiting my GitHub profile! 🚀
